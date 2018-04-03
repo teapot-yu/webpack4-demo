@@ -1,7 +1,7 @@
 {
   "name": "webpack4-test",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A vue-cli webpack4 project",
   "author": "wupengyu <1139174519@qq.com>",
   "private": true,
   "scripts": {

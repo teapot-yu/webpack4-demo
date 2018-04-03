@@ -1,6 +1,6 @@
 # webpack4-test
 
-> A Vue.js project
+> A vue-cli webpack4 project
 
 ## Build Setup
 

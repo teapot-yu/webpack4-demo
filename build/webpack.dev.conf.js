@@ -45,9 +45,6 @@ const devWebpackConfig = merge(baseWebpackConfig, {
     }
   },
   plugins: [
-    new webpack.DefinePlugin({
-      'process.env': require('../config/dev.env')
-    }),
     new webpack.HotModuleReplacementPlugin(),
     // https://github.com/ampedandwired/html-webpack-plugin
     new HtmlWebpackPlugin({
